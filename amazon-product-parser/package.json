@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.0",
+    "@types/jest": "^29.5.12",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "type": "module"
+}
