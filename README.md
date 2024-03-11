@@ -3,7 +3,7 @@ Instructions for amazon parser:<br><br>
 1) In Chromm Extension > Manage Extensions<br>
 2) Turn on developer mode on the top right corner<br>
 3) Press Load unpacked and load the files<br>
-4) Go to one of the amazon products and test the extension<br>
+4) Go to one of the amazon products and test the extension<br><br>
 For testing:
 1) npm i<br>
 2) npm test<br><br>
