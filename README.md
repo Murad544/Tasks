@@ -9,7 +9,7 @@ For testing:
 2) npm test<br><br>
 
 Instructions for nextjs-task:<br><br>
-1) npm 1<br>
+1) npm i<br>
 2) npm run dev<br><br>
 
 Instructions for react-task:<br><br>
